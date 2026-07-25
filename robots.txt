@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://white-sea-81cc.howardaris111.workers.dev/sitemap.xml
